@@ -1,0 +1,42 @@
+O sistema deve mostrar um menu de opções que permite ao usuário:
+
+1. Cadastrar vários produtos com código, descrição e preço; *-***+(Descriçao automatica)*-***
+
+2. Listar os produtos cadastrados;
+
+3. Dar entrada dos produtos cadastrados no estoque da loja informando código do
+produto e quantidade;
+
+4. Vender um produto. A cada venda realizada, gerar um cupom fiscal (data da
+venda, descrição do produto, quantidade vendida e valor total)e adicionar a
+uma lista.
+
+5. Listar produtos em estoque;
+
+6. Permitir a visualização de todos os cupons gerados;
+
+7. Calcular o valor total dos cupons (de todas as vendas).
+
+8. Sair do programa
+
+Após a execução de qualquer opção acima o sistema deve apresentar o menu
+novamente para o usuário escolher outra opção.
+
+
+
+
+
+
+
+                                check::--a
+Materiais -
+Concreto;
+Tijolos - comum, refratarios, de vidro;
+cimento;
+aço;
+vidro;
+plastico;
+madeiras - maciça, laminada, tratada;
+aluminio;
+
+codigo para cada um>>>
